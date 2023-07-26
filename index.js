@@ -1,4 +1,4 @@
 'use strict';
 
-a = 3;
 const a = 3;
+const b = 5;
